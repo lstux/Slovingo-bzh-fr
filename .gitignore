@@ -1,0 +1,6 @@
+# Générés par le build (src/build.py du repo Slovingo) -- jamais des sources.
+# json/ = intermédiaires de contenu (toujours régénérés) + exercices persistants
+# dist/ = site final buildé
+json/
+dist/
+__pycache__/
