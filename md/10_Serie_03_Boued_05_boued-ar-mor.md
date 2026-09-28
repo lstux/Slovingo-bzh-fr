@@ -1,134 +1,157 @@
-# Série Boued (5/6) — Boued ar mor
+# Série Boued (5/5) — Boued ar mor
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Quimper-Marchand%20ambulant.jpg | Un marchand ambulant à Quimper — Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Oyster_market_at_Cancale%2C_France.jpg?width=800 | Marché aux huîtres à Cancale, Bretagne — Wikimedia Commons, CC BY
 
-Les produits de la mer, incontournables sur une table bretonne. Et de quoi exprimer une quantité : beaucoup, peu, un morceau...
-
----
-
-## Les nouveaux mots
-
-| Breton | Français |
-|----------|----------|
-| ar pesk | le poisson |
-| ar c'hrank | le crabe |
-| an istr | l'huître |
-| al legestr | le homard |
-| ar meskled | les moules |
-| ar mor | la mer |
+Au marché, pour le repas de midi. Erwan, Eric, Annaig et Fañchon choisissent des fruits de mer. Tout le vocabulaire de la série se retrouve ici, dans un échange suivi. Aucun mot nouveau, sauf ceux signalés dans les remarques.
 
 ---
 
-## La grammaire du jour
+## Les personnages
 
-### Exprimer une quantité
+- 👨‍🌾 Ar pesketour (le pêcheur/marchand)
+- 🧒 Erwan
+- 👦 Eric
+- 👩 Annaig
+- 👵 Fañchon
 
-| Breton | Français |
-|----------|----------|
-| kalz a besked | beaucoup de poissons |
-| nebeut a istr | peu d'huîtres |
-| un tamm pesk | un morceau de poisson |
-| ur pezh kig | un morceau de viande |
-
-+ Comme pour la négation, ces expressions de quantité se construisent avec « a » devant le nom, souvent suivi d'une petite mutation. On la reconnaît sans forcément savoir l'expliquer à chaque fois — l'oreille finit par s'habituer.
+Eric vouvoie Annaig et Fañchon. Erwan tutoie tout le monde (ce sont ses proches).
 
 ---
 
-## Des phrases
+## Le dialogue
 
-! Pesked a blij din, dreist-holl al legestr.
-> J'aime le poisson, surtout le homard.
-> Pesked a blij din = j'aime le poisson (litt. les poissons me plaisent)
-> dreist-holl al legestr = surtout le homard
+! 👨‍🌾 Demat d'an holl! Pesked fresk-tre hiziv!
+> Bonjour à tous! Du poisson très frais aujourd'hui!
+> Demat d'an holl = bonjour à tous
+> Pesked fresk-tre = du poisson très frais
+> hiziv = aujourd'hui
 
-! Kalz a veskled am eus prenet.
-> J'ai acheté beaucoup de moules.
-> Kalz a veskled = beaucoup de moules
-> am eus prenet = j'ai acheté
-
-! An istr a zo eus ar mor amañ tost.
-> Les huîtres viennent de la mer, tout près d'ici.
-> An istr a zo eus ar mor = les huîtres viennent de la mer
-> amañ tost = tout près d'ici
-
-! Ur pezh pesk am eus debret, ha n'am eus ket naon ken.
-> J'ai mangé un morceau de poisson, et je n'ai plus faim.
-> Ur pezh pesk am eus debret = j'ai mangé un morceau de poisson
-> n'am eus ket naon ken = je n'ai plus faim
-
-! Nebeut a c'hranked a zo er porzh-mor c'hoazh.
-> Il y a peu de crabes au port encore.
-> Nebeut a c'hranked = peu de crabes
-> a zo er porzh-mor c'hoazh = sont au port encore
-
-! Debriñ a reomp legestr da c'houel.
-> Nous mangeons du homard pour les fêtes.
-> Debriñ a reomp legestr = nous mangeons du homard
-> da c'houel = pour les fêtes
-
----
-
-## On révise
-
-! Kalz a besked a blij dimp, mes al legestr a blij dimp ivez, dreist-holl da c'houel.
-> Nous aimons beaucoup les poissons, mais nous aimons aussi le homard, surtout pour les fêtes.
+! 👵 Ar pesk a zo mat-tre. Kalz a besked a blij dimp.
+> Le poisson est très bon. Nous aimons beaucoup les poissons.
+> Ar pesk a zo mat-tre = le poisson est très bon
 > Kalz a besked a blij dimp = beaucoup de poissons nous plaisent
-> mes al legestr a blij dimp ivez = mais le homard nous plaît aussi
-> dreist-holl da c'houel = surtout pour les fêtes
 
-! Ret eo dit debriñ un tamm pesk a-raok mont d'ar mor.
-> Il te faut manger un morceau de poisson avant d'aller à la mer.
-> Ret eo dit debriñ un tamm pesk = il te faut manger un morceau de poisson
-> a-raok mont d'ar mor = avant d'aller à la mer
+! 🧒 Ha legestr? An holl a blij din.
+> Et le homard? J'aime tout.
+> Ha legestr = et le homard
+> An holl a blij din = j'aime tout
+
+! 👨‍🌾 Ur pezh legestr am eus, bras hag fresk. Plijadur c'hoant?
+> J'ai un morceau de homard, grand et frais. Vous en voulez?
+> Ur pezh legestr = un morceau de homard
+> bras hag fresk = grand et frais
+> Plijadur c'hoant = en voulez-vous
+
+! 👩 Al legestr a zo nañsik, mes nebeut a veskled ivez, mar plij. Kalz a veskled a blij dimp.
+> Le homard est cher, mais un peu de moules aussi, s'il vous plaît. Nous aimons beaucoup les moules.
+> Al legestr a zo nañsik = le homard est cher
+> mes nebeut a veskled ivez = mais un peu de moules aussi
+> Kalz a veskled a blij dimp = nous aimons beaucoup les moules
+
+! 👦 Ha c'hrank? Pesked a zo tost er mor amañ?
+> Et crabe? Y a-t-il du poisson près de la mer ici?
+> Ha c'hrank = et crabe
+> Pesked a zo tost er mor amañ = du poisson près de la mer ici
+
+! 👨‍🌾 Nann, c'hrank n'eus ket bepred. Nebeut a c'hrank-mor a zo.
+> Non, pas toujours de crabe. Il y a peu de crabes de mer.
+> Nann = non
+> c'hrank n'eus ket bepred = pas toujours de crabe
+> Nebeut a c'hrank-mor a zo = il y a peu de crabes de mer
++ « c'hrank-mor » (crabe de mer) — une distinction avec d'autres sortes de crabes que nous découvrirons ailleurs.
+
+! 🧒 Kaout a ran an istr ivez! Al legestr, ar pesk, ar meskled...
+> Je veux aussi des huîtres! Le homard, le poisson, les moules...
+> Kaout a ran = je veux
+> an istr ivez = aussi des huîtres
+> Al legestr, ar pesk, ar meskled = le homard, le poisson, les moules
+
+! 👵 Pas an holl, Erwan! Ret eo deomp debriñ mat, mes n'eus ket arc'hant ebet.
+> Pas tout, Erwan! Il nous faut manger bien, mais nous n'avons pas beaucoup d'argent.
+> Pas an holl = pas tout
+> Ret eo deomp debriñ mat = il nous faut manger bien
+> mes n'eus ket arc'hant ebet = mais nous n'avons pas beaucoup d'argent
+
+! 👦 Priz ar pesk, plight?
+> Quel est le prix du poisson, s'il vous plaît?
+> Priz ar pesk = le prix du poisson
+> plight = s'il vous plaît
++ « plight » est une autre façon de dire « s'il vous plaît » en breton, moins courante que « mar plij ».
+
+! 👨‍🌾 Ur pesk bras, triugent euro. Ha moui, pesked all, plijadur a blije.
+> Un gros poisson, trente euros. Et autres poissons, comme vous voudrez.
+> Ur pesk bras = un gros poisson
+> triugent euro = trente euros
+> Ha moui = et d'autres
+> pesked all = autres poissons
+> plijadur a blije = comme vous voudrez
+
+! 👩 Mat. Ur pezh pesk, ur pezh meskled, hag ur pezh istr, mar plij.
+> Bien. Un morceau de poisson, un morceau de moules, et un morceau d'huîtres, s'il vous plaît.
+> Ur pezh pesk = un morceau de poisson
+> ur pezh meskled = un morceau de moules
+> hag ur pezh istr = et un morceau d'huîtres
+
+! 👨‍🌾 Graet! Setu an holl.
+> D'accord! Voilà tout.
+> Graet = d'accord
+> Setu an holl = voilà tout
+
+! 👵 Trugarez. Ret eo deomp kañ. Ouzh an daol e chomimp da c'hreizteiz.
+> Merci. Il nous faut y aller. Nous mangerons à table à midi.
+> Trugarez = merci
+> Ret eo deomp kañ = il nous faut y aller
+> Ouzh an daol e chomimp = nous mangerons à table
+> da c'hreizteiz = à midi
+
+! 🧒 Kendall e teujo, mamm-gozh?
+> Bientôt on arrivera, grand-mère?
+> Kendall = bientôt
+> e teujo = arrivera-t-on
++ « kendall » veut dire bientôt. Le futur s'apprendra plus tard — pour l'instant, retiens la phrase.
+
+! 👵 Ya, buan-tre! An holl a kas ar micherour a-bezh.
+> Oui, très vite! Tout le monde rentre à la maison rapidement.
+> Ya, buan-tre = oui, très vite
+> An holl a kas = tout le monde rentre
+> ar micherour = la maison
+> a-bezh = rapidement
 
 ---
 
 ## 🏰 Coin breton
 
-**Un plateau, toute la côte bretonne dedans.** Le plateau de fruits de mer réunit souvent, sur une même assiette, les productions de plusieurs métiers : ostréiculteur pour les huîtres, pêcheur pour le crabe et le homard, mytiliculteur pour les moules. Une vraie carte de la Bretagne côtière servie à table.
+**Le marché breton, cœur de la semaine.** Chaque matin, sauf le lundi, les étals du marché rassemblent producteurs et clients dans une vraie conversation. Le mardi et samedi sont les plus animés — c'est l'occasion de revoir les voisins et de négocier les prix avec un sourire.
 
-**Getafix aurait aimé les huîtres bretonnes.** Dans les albums, Astérix et Obélix profitent souvent d'un festin après leurs aventures — poisson à volonté, sans même compter les invendus du poissonnier Ordralfabétix. La Bretagne réelle, elle, cultive ses huîtres depuis le 19e siècle, notamment dans le Morbihan et à Cancale.
+**Pesked fresk, une fierté régionale.** La Bretagne ravitaille les marchés français en poisson et fruits de mer — une économie ancestrale, du port breton au marché du village. Les pêcheurs connaissent leurs clients par leur nom.
 
-**Le homard, un produit de fête.** Plus cher et plus rare que la moule ou le crabe, {{al legestr}} reste associé aux grandes occasions — Noël, mariages, retrouvailles familiales — plutôt qu'au repas du quotidien.
-
----
-
-## Vocabulaire complémentaire
-
-| Breton | Français |
-|----------|----------|
-| ar porzh-mor | le port |
-| ar pesketour | le pêcheur |
-| prenañ | acheter |
-| gwerzhañ | vendre |
-| fresk | frais |
-| c'hoazh | encore |
+**Arc'hant et prix**, une question de tact. Demander le prix directement est courant, mais négocier l'est moins : on accepte généralement le tarif affiché, sauf si on achète en grande quantité. C'est une relation de confiance plus qu'une transaction.
 
 ---
 
 ## Encore quelques phrases
 
-! Ar pesketour a werzh pesked fresk bemdez.
-> Le pêcheur vend du poisson frais tous les jours.
-> Ar pesketour a werzh = le pêcheur vend
-> pesked fresk bemdez = du poisson frais tous les jours
+! Pesked mat-tre a zo er stal-se.
+> Le poisson est très bon à cet étal.
+> Pesked mat-tre = le poisson très bon
+> a zo = est
+> er stal-se = à cet étal
 
-! Prenañ a ran meskled er porzh-mor.
-> J'achète des moules au port.
-> Prenañ a ran meskled = j'achète des moules
-> er porzh-mor = au port
+! Kalz a veskled a blij dimp, ha nebeut a c'hrank ivez.
+> Nous aimons beaucoup les moules, et aussi un peu de crabe.
+> Kalz a veskled a blij dimp = beaucoup de moules nous plaisent
+> ha nebeut a c'hrank ivez = et un peu de crabe aussi
 
-! Ar pesk a zo fresk-tre.
-> Le poisson est très frais.
-> Ar pesk = le poisson
-> a zo fresk-tre = est très frais
+! Ur pezh legestr, ur pezh istr, ha pesked all a ran prenet.
+> J'achète un morceau de homard, un morceau d'huîtres, et d'autres poissons.
+> Ur pezh legestr = un morceau de homard
+> ur pezh istr = un morceau d'huîtres
+> pesked all a ran prenet = j'achète d'autres poissons
 
-! N'eus ket c'hoazh a legestr er stal.
-> Il n'y a pas encore de homard au magasin.
-> N'eus ket c'hoazh a legestr = il n'y a pas encore de homard
-> er stal = au magasin
-
-! Ar mor a zo tost, hag ar pesk a zo mat.
-> La mer est proche, et le poisson est bon.
-> Ar mor a zo tost = la mer est proche
-> hag ar pesk a zo mat = et le poisson est bon
+! An pesketour a werzh pesked fresk bemdez er marc'had.
+> Le pêcheur vend du poisson frais chaque jour au marché.
+> An pesketour = le pêcheur
+> a werzh = vend
+> pesked fresk = du poisson frais
+> bemdez = chaque jour
+> er marc'had = au marché
