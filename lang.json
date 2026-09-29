@@ -35,10 +35,10 @@
     "annex": "Annexe"
   },
   "subgroups": {
-    "series_familh": "Familh",
-    "series_ti": "Ti",
-    "series_boued": "Boued",
-    "series_amzer": "Amzer"
+    "familh": "Familh",
+    "ti": "Ti",
+    "boued": "Boued",
+    "amzer": "Amzer"
   },
   "ui": {
     "home": "Accueil",
@@ -147,5 +147,15 @@
       "francais",
       "french"
     ]
+  },
+  "subgroup_themes": {
+    "familh": "family",
+    "ti": "house",
+    "boued": "food",
+    "amzer": "time",
+    "prenan": "shopping",
+    "kaer": "city",
+    "heol": "weather",
+    "traezh": "sea"
   }
 }
